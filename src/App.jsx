@@ -1,7 +1,7 @@
 function App() {
   return (
     <main>
-      <h1>My first React App!</h1>
+      <h1>Development Branch</h1>
       <p>Hello World</p>
     </main>
   );
